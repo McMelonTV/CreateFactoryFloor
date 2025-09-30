@@ -1,0 +1,13 @@
+name = "Terra"
+filename = "Terra-fabric-6.5.0-BETA+b7326c0ff.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FIlZB9L0/versions/DErjl2jl/Terra-fabric-6.5.0-BETA%2Bb7326c0ff.jar"
+hash-format = "sha512"
+hash = "1a811b7ed918f30c285091d2bc30ba3b4621a6bd3425a51fd957154e86ad66f4bca82ddca5d08ea901f333c7914df81ec6191b9d6bbaea27da03840979a4c2ea"
+
+[update]
+[update.modrinth]
+mod-id = "FIlZB9L0"
+version = "DErjl2jl"
