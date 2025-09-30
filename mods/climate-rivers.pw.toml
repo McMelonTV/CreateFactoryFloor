@@ -1,0 +1,13 @@
+name = "Climate Rivers"
+filename = "ClimateRivers-v21.1.2-1.21.1-NeoForge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DzZWws4q/versions/DOE8t1HN/ClimateRivers-v21.1.2-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "56143aa1e3e71f77642d2d196847d1aa333dd5a2e46ba5b5ed6339eab023cf435f7a06f992159c111225fc3130ad7e3aaba54047967c5137c2a84cc7cc7ccb8d"
+
+[update]
+[update.modrinth]
+mod-id = "DzZWws4q"
+version = "DOE8t1HN"

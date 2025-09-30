@@ -1,0 +1,13 @@
+name = "Visual: Paintings"
+filename = "visual_paintings_v1.1_1.21.X.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1idgZN2z/versions/yV1922O0/visual_paintings_v1.1_1.21.X.zip"
+hash-format = "sha512"
+hash = "97e7b9262f43097da9048ef53690aaba9325f513b28496f5acac4f607c18e4118d08a1eea901bc3504dd5b4babcb4afb5ef47b6752b82811ccf0e6718203f0ea"
+
+[update]
+[update.modrinth]
+mod-id = "1idgZN2z"
+version = "yV1922O0"
