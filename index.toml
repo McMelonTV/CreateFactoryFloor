@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Terra/packs/origen-v2.2.0.zip"
-hash = "1ec27c9f185fe4b0017d08d4023686e7cf6ea56d8ba792f580f26c5d34dd4b65"
-
-[[files]]
 file = "icon.png"
 hash = "075cd96b98d182688c1119c6026761be644d6d9c8e2cce43c2761cb1ec946374"
 
@@ -244,11 +240,6 @@ hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
@@ -291,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "65026277699cc4b73c3d2c57ab7aad5173f161c0d6ff95e184911826387dbdec"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "f48d8d1f04f68dc8e6cac4ed4768790fa7ab35ee23c2aaed5391d862c6043eab"
 metafile = true
 
 [[files]]
@@ -371,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "2814d0d33ca5a6b95da1084b954eca9ca627890455c788811351ad6069a8f3bf"
+metafile = true
+
+[[files]]
+file = "mods/keymap.pw.toml"
+hash = "9cec9664a956092f1aa6b597d28a8ca7851762b3e1e1904694c698c29bbba18b"
 metafile = true
 
 [[files]]
@@ -509,8 +510,18 @@ hash = "c668bc3550b0b93095952337bf57d86a413f307890d11e21abe76aa3fe203164"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
@@ -526,11 +537,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
-metafile = true
-
-[[files]]
-file = "mods/terra.pw.toml"
-hash = "b40fbdca45ee04a9e7704e8eb81cbb22f98228796e40964e5cd3372fe761cb20"
 metafile = true
 
 [[files]]
@@ -554,8 +560,8 @@ hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]
-file = "mods/visualkeys.pw.toml"
-hash = "cb57f7d1a7fd0420fa05c7396a2aeacb1bd82f79719f2d954bb54b541d4a118d"
+file = "mods/world-preview.pw.toml"
+hash = "f8bf41ac19c20de158a9b8da3032a4aa06122b77748b04ca289d397f0062ab0a"
 metafile = true
 
 [[files]]
