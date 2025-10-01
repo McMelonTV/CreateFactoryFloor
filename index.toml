@@ -425,6 +425,11 @@ hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
@@ -582,11 +587,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/create-lootr.pw.toml"
 hash = "c71ace624089251e32aadec70c34e921de8e2bece0c2f6edeeabe1bb795f3a03"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-touch-ups.pw.toml"
-hash = "958c79fb205250cc764670083030ae928470c6bfd92ba5c9d47ca7981cd35a14"
 metafile = true
 
 [[files]]
