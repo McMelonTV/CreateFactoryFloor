@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "icon.png"
-hash = "075cd96b98d182688c1119c6026761be644d6d9c8e2cce43c2761cb1ec946374"
+hash = "80c4202cb79ba5a5e8fa47d0599945c5a393e4e572aad3212dd2a204c016d1fc"
 
 [[files]]
 file = "mods/air-hop.pw.toml"
