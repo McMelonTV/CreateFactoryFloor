@@ -1,0 +1,13 @@
+name = "Veggies Delight (A Farmer's Delight Add-on)"
+filename = "veggiesdelight-1.8.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/emQ94xri/versions/g9MUYYEX/veggiesdelight-1.8.3.jar"
+hash-format = "sha512"
+hash = "cf6b481eba3376803d1def0da9a4fbd97393d24d2163521afc41e171c3709da0c1cbfffe4c3b91e843f503202a64bc98af5302b3ac5831e05117ba8d8174b27b"
+
+[update]
+[update.modrinth]
+mod-id = "emQ94xri"
+version = "g9MUYYEX"
