@@ -575,11 +575,6 @@ hash = "2814d0d33ca5a6b95da1084b954eca9ca627890455c788811351ad6069a8f3bf"
 metafile = true
 
 [[files]]
-file = "mods/keymap.pw.toml"
-hash = "9cec9664a956092f1aa6b597d28a8ca7851762b3e1e1904694c698c29bbba18b"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
