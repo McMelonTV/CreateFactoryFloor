@@ -5,6 +5,14 @@ file = "icon.png"
 hash = "80c4202cb79ba5a5e8fa47d0599945c5a393e4e572aad3212dd2a204c016d1fc"
 
 [[files]]
+file = "index.js"
+hash = "cf73c14437cf35a5ba33eda36b476b3294ece2129bb9ab84820d3b573f23d7a9"
+
+[[files]]
+file = "licenses.csv"
+hash = "fab93561365404d75423c7529470269ee1bd1f222f8ec815e186dbe43002e430"
+
+[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "af86231a539b7c7a2e6deaf457b8ee4f239f6fa7467f1e064d562ec7f773a5bc"
 metafile = true
