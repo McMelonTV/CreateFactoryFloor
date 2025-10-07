@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "icon.png"
-hash = "80c4202cb79ba5a5e8fa47d0599945c5a393e4e572aad3212dd2a204c016d1fc"
+hash = "e7f02c3e8c1e07790e5b7ab2482b94943474ddb4fabf54f8774d9e16d60a79f7"
 
 [[files]]
 file = "index.js"
