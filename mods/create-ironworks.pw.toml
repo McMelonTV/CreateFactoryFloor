@@ -1,0 +1,13 @@
+name = "Create: Ironworks [Forge/Fabric/NeoForge]"
+filename = "create_ironworks-3.9.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FZb6dmQf/versions/DRohl2wT/create_ironworks-3.9.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "54df50692816819a465783a27cef0f34003c6de0ef7da612e5e29512bce866ad88f225d0f083384aa92ec5980fad11a4135ec7f5c485d91c00946b9f821fd29f"
+
+[update]
+[update.modrinth]
+mod-id = "FZb6dmQf"
+version = "DRohl2wT"

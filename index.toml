@@ -205,6 +205,16 @@ hash = "68a6089104825858beb345ab44c435fff997cf5f1560b39e215574b3e1ae5c2c"
 metafile = true
 
 [[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "4307091fcb4796398e968c0a446654ef25c216ee0c269c82fbaa034b92071314"
+metafile = true
+
+[[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "bbe41c6629eca553fed13d7b3fee895a4d8008fc77d93cf12e3325e20ef2e3a6"
+metafile = true
+
+[[files]]
 file = "mods/create-cardboarded-conveynience.pw.toml"
 hash = "a75366f4e1b59905865a4f848ff5dc3a591b92b12483fdc8c1be10bbf5e85d09"
 metafile = true
@@ -212,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "ce50db04fb5e06a6dd2fc36725ff72dec8b0455f9f6c682da0f9eed058431c11"
+metafile = true
+
+[[files]]
+file = "mods/create-compressed.pw.toml"
+hash = "a946542ae4970e35a3f721b16872d2c66e62235778eb640c4102c1faaa008b3e"
 metafile = true
 
 [[files]]
@@ -230,6 +245,21 @@ hash = "9fc83755c0454a6c772bcda449b0cc40dce6aeff5453efa3555e474bbb690a43"
 metafile = true
 
 [[files]]
+file = "mods/create-currency-shops.pw.toml"
+hash = "972e1b765161249d3ac23377bf4ab192d766c66ed21a9b09946beea84f5b8b4c"
+metafile = true
+
+[[files]]
+file = "mods/create-cyber-goggles.pw.toml"
+hash = "aaf1d7474093d2e024fd88686cd1229bbb47dfd42b3a2dea1cc5cc190c0f4ff4"
+metafile = true
+
+[[files]]
+file = "mods/create-deepfried.pw.toml"
+hash = "b7d4ed44761130de097b3c5d274fdb1c11c1446045aa3faef2f58aa34214a8d5"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
@@ -237,6 +267,16 @@ metafile = true
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "482da6b94b7a583b970e15ee78810ad48ba3983cb306d3e305b5dc6b205965c4"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "80d8e54420806a0cfdc113dc559ae2e6bfa7dfcf44e176c7e230d7d371ca99e1"
+metafile = true
+
+[[files]]
+file = "mods/create-drill-drain.pw.toml"
+hash = "1fed61cc1b0ef77d34047d5489141532a6dfeba0f31478f8d6a14f48ac845c8d"
 metafile = true
 
 [[files]]
@@ -255,13 +295,28 @@ hash = "b811e758ca5dd5b0ad908e3e56e10cdf048863f7cf0b6ebd8098e03fdfcf31c5"
 metafile = true
 
 [[files]]
+file = "mods/create-food.pw.toml"
+hash = "946a389729193083c0f937e22f778be1e88f7429bdd25abefb22316af49d7da5"
+metafile = true
+
+[[files]]
 file = "mods/create-framed.pw.toml"
 hash = "fe314943675dbe95eca9c16139b049b5e6f94f1e9ac1c78c04a16024bba34f89"
 metafile = true
 
 [[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "22db71442017112074951924a7f8a62afa3c0d34cb75b1708ed7f86fec64099c"
+metafile = true
+
+[[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "587fda4ade00fdc2f67dffc3cd7faf27bf6c6a6f8fd41cbaed675a4dc0737e69"
+metafile = true
+
+[[files]]
+file = "mods/create-ironworks.pw.toml"
+hash = "526ffc7ce038465260df7cb64c0f70613efe9f633f4174206f84d2103a0ff9dd"
 metafile = true
 
 [[files]]
@@ -296,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-parallel-pipes.pw.toml"
-hash = "c0903d4f204d5fd10ead93990bd825d3cea64938072a2e7a6b266f51de03f09a"
+hash = "86b38f391cf3572822b7682d2c64de8bdf929bbe27e2cf68859b9a4ced8828dd"
 metafile = true
 
 [[files]]
@@ -305,8 +360,28 @@ hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
 
 [[files]]
+file = "mods/create-pure-glass.pw.toml"
+hash = "fd4769136985628534869d2c1b93caa9693bd65130953ed17d0f0ebb4bf05b1a"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "36ca424432226ba50961b9a9a9e8a9b97e3a76763c9d82ce7c5492b0822cefc0"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "16a779fbdf47b154eb5ee30cc8ab41df3d3fe18308337824d66bd036c2c24014"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
+metafile = true
+
+[[files]]
+file = "mods/create-synthetic-pressure.pw.toml"
+hash = "136e981062a886b9efac803aa47b96d7da4b6802141d3a06fd7b89240696cfb4"
 metafile = true
 
 [[files]]
@@ -317,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "98c492446a44d3fd82fb448527dada7a496c8bc42f84a90e302e11dd34f08ba7"
+metafile = true
+
+[[files]]
+file = "mods/create-train-parts.pw.toml"
+hash = "ad55431228d72010c4161b28728bdf091bb9f16c4d058cfe69e310997489971e"
 metafile = true
 
 [[files]]
@@ -335,8 +415,18 @@ hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
+file = "mods/create-winery.pw.toml"
+hash = "7d654b00f69bd958c15188ff16d2b917c98f6a44c05dd4fa3861eb8901b4c168"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
 metafile = true
 
 [[files]]
@@ -362,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
+file = "mods/delivery-director.pw.toml"
+hash = "6698c567fce253cdc646bff69e34b0a1d551d51f73799603159b744386737eae"
 metafile = true
 
 [[files]]
