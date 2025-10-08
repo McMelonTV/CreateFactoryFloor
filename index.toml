@@ -5,14 +5,6 @@ file = "icon.png"
 hash = "e7f02c3e8c1e07790e5b7ab2482b94943474ddb4fabf54f8774d9e16d60a79f7"
 
 [[files]]
-file = "index.js"
-hash = "cf73c14437cf35a5ba33eda36b476b3294ece2129bb9ab84820d3b573f23d7a9"
-
-[[files]]
-file = "licenses.csv"
-hash = "fab93561365404d75423c7529470269ee1bd1f222f8ec815e186dbe43002e430"
-
-[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "af86231a539b7c7a2e6deaf457b8ee4f239f6fa7467f1e064d562ec7f773a5bc"
 metafile = true
@@ -1107,8 +1099,8 @@ hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
 metafile = true
 
 [[files]]
-file = "resourcepacks/low-shield-pack.pw.toml"
-hash = "e6ab218fda3347f567aef2fdaee39760b35a85b675239203787e2b1bba256ed5"
+file = "resourcepacks/small-shield-totem.pw.toml"
+hash = "a355a61046b779bf05ac836149ebf9db7dafc43138024b82d5050a911baf97be"
 metafile = true
 
 [[files]]
