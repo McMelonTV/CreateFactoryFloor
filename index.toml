@@ -290,6 +290,11 @@ hash = "79199cff90909b0dece144138419fa205c3723d606ef0d18c2981e2f2b598d84"
 metafile = true
 
 [[files]]
+file = "mods/create-ender-link.pw.toml"
+hash = "bdaaa0b86e05f11ae01652a097cb827259a9f2e6a6b4d46f25081d3c78bd83d8"
+metafile = true
+
+[[files]]
 file = "mods/create-fishery-industry.pw.toml"
 hash = "b811e758ca5dd5b0ad908e3e56e10cdf048863f7cf0b6ebd8098e03fdfcf31c5"
 metafile = true
@@ -335,6 +340,11 @@ hash = "88984e660a732022a2ccc3c2d239254a777eef1389d07c9579207d2f773e1da2"
 metafile = true
 
 [[files]]
+file = "mods/create-meta-logistics.pw.toml"
+hash = "4c72fc2f91429b65c1cff4459320a1087449b71eb2813e33bb920b0f1adf0ff5"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
 metafile = true
@@ -345,13 +355,33 @@ hash = "f5c3ca01de7d7528ea55b5b8ab41ccb6a5cb3ef78785f693425a271cf60c49a4"
 metafile = true
 
 [[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "037a176211b34d40b91a54ea997875d7732363ef2ba1745ea48af398e8c259b7"
+metafile = true
+
+[[files]]
 file = "mods/create-molten-vents.pw.toml"
 hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
 metafile = true
 
 [[files]]
+file = "mods/create-more-linked-remote.pw.toml"
+hash = "7fb3edf94a0203ea3885757847738490c98ef3efef783150f8469f1b84aaef8c"
+metafile = true
+
+[[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "3835633b93cf8176426f2f03db6ac01cdab440c0d2bcd700a0e1b6c69f8c2605"
+metafile = true
+
+[[files]]
 file = "mods/create-more-parallel-pipes.pw.toml"
 hash = "86b38f391cf3572822b7682d2c64de8bdf929bbe27e2cf68859b9a4ced8828dd"
+metafile = true
+
+[[files]]
+file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
+hash = "90ec6398119d5172402ad38373c23ce6a8d58bb8ed4986b35190cfe28ae22899"
 metafile = true
 
 [[files]]
@@ -872,6 +902,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "5bfdc2a3aa53eefc0a380b0e682ade53431b0bdee84b0d3e005a44f5040eeec9"
 metafile = true
 
 [[files]]
