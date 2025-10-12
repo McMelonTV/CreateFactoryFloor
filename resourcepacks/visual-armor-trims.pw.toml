@@ -1,13 +1,13 @@
 name = "Visual: Armor Trims"
-filename = "visual_armor_trims_v2.1_1.21.X.zip"
+filename = "visual_armor_trims_v2.0_1.21.X.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tPtjib62/versions/eDbF1DEW/visual_armor_trims_v2.1_1.21.X.zip"
+url = "https://cdn.modrinth.com/data/tPtjib62/versions/Qs9Gdrk1/visual_armor_trims_v2.0_1.21.X.zip"
 hash-format = "sha512"
-hash = "dc929197e7d07dc2a47cf1a4dff47cb865a76353b9311ff936c02fabfb92397706b8703d1a6e6f5920177ea87d46229b0c41abe13bee3790e2b25c3dc4882c93"
+hash = "fc93efca555cc9a021e90cd5fd56eefd1f830b6ff2f5fa3a32bb4c2607ada59df068ffbddb85d671c4ea4dbda2cb74ebab8b65bf4b036e5905421a4b7436303b"
 
 [update]
 [update.modrinth]
 mod-id = "tPtjib62"
-version = "eDbF1DEW"
+version = "Qs9Gdrk1"
